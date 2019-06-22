@@ -7,7 +7,7 @@ Desarrollador de aplicaciones web, Querétaro, México
 
 <div id="webaddress">
   <a href="mailto:ricardohead@gmail.com">ricardohead@gmail.com</a> |
-  <a href="https://ricardohead.github.io">ricardohead.github.io</a> |
+  <a href="https://ricardohead.github.io">ricardohead.github.io</a>
 </div>
 
 ## Acerca de mí

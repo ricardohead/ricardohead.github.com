@@ -3,7 +3,7 @@ layout: default
 title: Inicio
 ---
 
-Tengo cerca de 14 años desarrollando aplicaciones web: tanto para el sector
+Tengo 10+ años desarrollando aplicaciones web: tanto para el sector
 público como para el privado y servicios propios.
 
 He participado en [proyectos](/projects.html)  para gobierno (municipal y
