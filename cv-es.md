@@ -28,12 +28,24 @@ de tickets.
 
 ## Empleos
 
-### [Zentiglo](http://www.zentiglo.com/)
+### [Don Signore](https://donsignore.com)
 
-`2010 - presente`
+`2021 - 2022`
 __Desarrollador Full Stack__
 
-Participo en el diseño, desarrollo, despliegue y mantenimiento de los servicios
+Participé en el desarrollo de un proyecto para integrar un sistema de pagos
+con Paypal en una aplicación legacy de Ruby on Rails, el proyecto consistió
+en el desarrollo de un API backend y un SDK. 
+
+Tecnologías y servicios utilizados: Ruby, Roda, Javascript, React y
+Domain Driven Design.
+
+### [Zentiglo](http://www.zentiglo.com/)
+
+`2010 - 2021`
+__Desarrollador Full Stack__
+
+Participé en el diseño, desarrollo, despliegue y mantenimiento de los servicios
 y aplicaciones ofrecidas por [Zentiglo](http://www.zentiglo.com/), entre ellas:
 
 [makingeasy.online](http://www.makingeasy.online/es/): para organizar y
@@ -46,9 +58,9 @@ Core: para el control de personal, administración de bienes, partes informativo
 y despacho de unidades de dependencias públicas.
 
 Tecnologías y servicios utilizados: Ruby, Rails, HTML, CSS, Javascript, MySQL,
-PostgreSQL, Digital Ocean, Heroku, AWS, Gitlab y Scrum.
+PostgreSQL, Digital Ocean, Heroku, AWS, Gitlab, Scrum, Docker y Kubernetes.
 
-### [SSC QRO](http://www.queretaro.gob.mx/ssc/)
+### [SSC QRO](https://sscqro.gob.mx)
 
 `2006 - 2010`
 __Desarrollador Full Stack__
@@ -64,24 +76,24 @@ Linux(Slakware), Apache, Subversion y Redmine.
 
 ## Proyectos
 
-### [Hazticket](https://www.hazticket.mx/)
+### Hazticket
 
-`2017 - presente`
+`2017 - 2020`
 Marketplace para la venta y expedición de tickets.
-Creé [Hazticket](https://www.hazticket.mx/) para que empresas pequeñas y
-medianas puedan vender sus tickets en línea de manera sencilla.
-Actualmente cuenta con 100+ clientes distribuidos en toda la república y
-realizamos 1000+ transacciones mensuales.
+Creé Hazticket para que empresas pequeñas y
+medianas puedieran vender sus tickets en línea de manera sencilla.
+Contó con 100+ clientes distribuidos en toda la república y
+realizábamos 1000+ transacciones mensuales.
 
 Tecnologías y servicios utilizados: Ruby, Rails, HTML, CSS, Javascript,
-PostreSQL, Heroku, AWS, Conekta, Sendgrid, Helpscout, Cloudinary, Bitbucket y
+PostgreSQL, Heroku, AWS, Conekta, Stripe, Sendgrid, Helpscout, Cloudinary, Bitbucket y
 Jira.
 
-### [Asistente Inteligente](https://www.asistenteinteligente.mx/)
+### Asistente Inteligente
 
 `2014 - presente`
 SaaS para facilitar el seguimiento de clientes y citas.
-Creé [Asistente Inteligente](https://www.asistenteinteligente.mx/) para llevar
+Creé Asistente Inteligente para llevar
 un CRM ligero a personas que requieren una herramienta para organizarse día a
 día sin la complejidad que representa aprender a utilizar un CRM completo.
 
